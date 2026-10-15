@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://eizport.github.io/">Site</a> ·
   <a href="https://eizport.github.io/docs/">Docs</a> ·
-  <a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/eizport/eizport/main/playground/blueprint.json">Try it in Playground</a> ·
+  <a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/eizport/eizport/trunk/playground/blueprint.json">Try it in Playground</a> ·
   <a href="https://github.com/eizport/eizport/releases/latest">Download</a> ·
   <a href="https://eizport.github.io/donate/">Support</a>
 </p>
